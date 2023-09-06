@@ -1,3 +1,4 @@
+//Quintin d'Hotman de Villiers u21513768 no.26
 document.addEventListener("DOMContentLoaded", function () {
     const submitButton = document.querySelectorAll(".submit");
     const messageDiv = document.querySelector(".messages");
